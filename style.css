@@ -1,0 +1,13 @@
+body {
+	color: white;
+	background: black; 
+	text-align: center;
+
+}
+hr {
+	margin-left: auto;
+      margin-right: auto;
+	width:2%;
+	border-style:dotted;
+	padding:10px;
+}
